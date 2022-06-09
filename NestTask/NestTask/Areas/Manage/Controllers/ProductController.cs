@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NestTask.DAL;
 using NestTask.Models;
@@ -11,6 +12,7 @@ using System.Threading.Tasks;
 namespace NestTask.Areas.Manage.Controllers
 {
     [Area("Manage")]
+    [Authorize(Roles ="Admin")]
     public class ProductController : Controller
     {
         private AppDbContext _context { get; }

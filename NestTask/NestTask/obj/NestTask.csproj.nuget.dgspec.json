@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tu7kswf4d\\Desktop\\NestCRUD\\NestTask\\NestTask\\NestTask.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\NestRoleManager\\NestTask\\NestTask\\NestTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tu7kswf4d\\Desktop\\NestCRUD\\NestTask\\NestTask\\NestTask.csproj": {
+    "C:\\Users\\Acer\\Desktop\\NestRoleManager\\NestTask\\NestTask\\NestTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tu7kswf4d\\Desktop\\NestCRUD\\NestTask\\NestTask\\NestTask.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\NestRoleManager\\NestTask\\NestTask\\NestTask.csproj",
         "projectName": "NestTask",
-        "projectPath": "C:\\Users\\tu7kswf4d\\Desktop\\NestCRUD\\NestTask\\NestTask\\NestTask.csproj",
-        "packagesPath": "C:\\Users\\tu7kswf4d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tu7kswf4d\\Desktop\\NestCRUD\\NestTask\\NestTask\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\NestRoleManager\\NestTask\\NestTask\\NestTask.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\NestRoleManager\\NestTask\\NestTask\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tu7kswf4d\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
